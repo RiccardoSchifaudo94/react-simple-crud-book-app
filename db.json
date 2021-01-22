@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Il fu mattia pascal",
+      "rating": 2.3
+    },
+    {
+      "title": "se una notte d'inverno un viaggiatore",
+      "rating": "1.2",
+      "id": 5
+    },
+    {
+      "title": "come una notte a bali",
+      "rating": "5.2",
+      "id": 6
+    },
+    {
+      "title": "come una barca in mezzo al bosco",
+      "rating": "7.4",
+      "id": 8
+    },
+    {
+      "title": "uno, nessuno, cento mila",
+      "rating": "6.2",
+      "id": 9
+    },
+    {
+      "title": "chi ha spostato il mio formaggio?",
+      "rating": "1.1",
+      "id": 10
+    },
+    {
+      "title": "se mai ritornerò",
+      "rating": "2.2",
+      "id": 11
+    },
+    {
+      "title": "il ciupacapras",
+      "rating": "9.0",
+      "id": 12
+    },
+    {
+      "title": "voyager - il ritorno",
+      "rating": "8.3",
+      "id": 13
+    }
+  ]
+}
